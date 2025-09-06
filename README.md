@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Safaa Ouahid <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **PhD student jointly affiliated with ICARDA and the University of Córdoba**, passionate about **remote sensing, artificial intelligence in agriculture, and high-throughput phenotyping (HTP)**.  
+I'm a Data Scientist, passionate about **remote sensing, artificial intelligence in agriculture, and high-throughput phenotyping (HTP)**.  
 My research focuses on developing innovative solutions for predicting key traits in barley to enhance drought and climate resilience.  
 
 🌱 Open to collaborations in **AI for agriculture, crop phenotyping pipelines, and sustainable agri-tech solutions**.  
