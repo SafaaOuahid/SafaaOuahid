@@ -1,9 +1,8 @@
-<h1>Hi There, I'm Safaa Ouahid <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I am Safaa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **PhD student jointly affiliated with ICARDA and the University of Córdoba**, passionate about **remote sensing, artificial intelligence in agriculture, and high-throughput phenotyping (HTP)**.  
+I am a Data Scientist, passionate about **remote sensing, artificial intelligence in agriculture, and high-throughput phenotyping (HTP)**.  
 My research focuses on developing innovative solutions for predicting key traits in barley to enhance drought and climate resilience.  
-
-I'm also the **co-founder of the Moroccan Data Scientists Community (MDS)**, an **active member of the African Young Leaders Foundation**, and a fellow of the **AWARD Leadership Program for Emerging African Women in Science**.  
+ 
 🌱 Open to collaborations in **AI for agriculture, crop phenotyping pipelines, and sustainable agri-tech solutions**.  
 
 ---
@@ -22,11 +21,6 @@ These are some of the major technologies and tools I use in my research and proj
 <img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">|<img title="NumPy" alt="NumPy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">|<img title="PyTorch" alt="PyTorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">
 |--|--|--|--|--|
 <img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Matplotlib" alt="Matplotlib" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png">|<img title="Seaborn" alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg">|<img title="XGBoost" alt="XGBoost" width="40px" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4">|<img title="LightGBM" alt="LightGBM" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/LightGBM_logo.png">
-
-**Remote Sensing & HTP Tools**
-
-<img title="LiDAR" alt="LiDAR" width="40px" src="https://cdn-icons-png.flaticon.com/512/3082/3082383.png">|<img title="GIS" alt="GIS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/QGIS_logo_new.svg">|<img title="Hyperspectral" alt="Hyperspectral" width="40px" src="https://cdn-icons-png.flaticon.com/512/902/902738.png">|<img title="Multispectral" alt="Multispectral" width="40px" src="https://cdn-icons-png.flaticon.com/512/2463/2463510.png">|<img title="HTP Pipelines" alt="HTP Pipelines" width="40px" src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png">
-|--|--|--|--|--|
 
 **Tools & Platforms**
 
