@@ -19,7 +19,7 @@ These are some of the major technologies and tools I use in my research and proj
 
 **Libraries and Frameworks**
 
-<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">|<img title="NumPy" alt="NumPy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"><img title="Matplotlib" alt="Matplotlib" width="40px" src="https://matplotlib.org/_static/images/logo2.svg">  
+<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">|<img title="NumPy" alt="NumPy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">|<img title="Matplotlib" alt="Matplotlib" width="40px" src="https://matplotlib.org/_static/images/logo2.svg">| 
 <img title="Seaborn" alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
 |<img title="PyTorch" alt="PyTorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">
 |--|--|--|--|--|
