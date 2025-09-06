@@ -29,14 +29,6 @@ I am a Data Scientist, passionate about **remote sensing, artificial intelligenc
 
 <br>
 
----
-
-## Some of my stats :bar_chart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=SafaaOuahid&show_icons=true&theme=radical&include_all_commits=true">
-
----
-
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/safaa-o-3b600b24a"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> | <a href="https://www.researchgate.net/profile/Safaa-Ouahid"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="40"></a> | <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="40"></a>  
