@@ -13,8 +13,9 @@ These are some of the major technologies and tools I use in my research and proj
 
 **Programming & Data Science**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png">|<img title="MATLAB" alt="MATLAB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">|<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="Bash" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png">|<img title="MATLAB" alt="MATLAB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
 |--|--|--|--|--|
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="Bash" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png">|<img title="HTML5" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img title="CSS3" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
 
 **Libraries and Frameworks**
 
@@ -26,6 +27,8 @@ These are some of the major technologies and tools I use in my research and proj
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Google Earth Engine" alt="GEE" width="40px" src="https://earthengine.google.com/static/images/earth-engine-logo.png">
 |--|--|--|--|--|
+<img title="QGIS" alt="QGIS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/QGIS_logo_new.svg">
+
 <br>
 
 ---
@@ -47,6 +50,7 @@ These are some of the major technologies and tools I use in my research and proj
 (*PS: Refresh the page to see a new meme* :wink: )  
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+
 
 
 
