@@ -1,6 +1,6 @@
 <h1>Hi There, I am Safaa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I am a Data Scientist, passionate about **remote sensing, artificial intelligence in agriculture, and high-throughput phenotyping (HTP)**.   
+I am passionate about **remote sensing, artificial intelligence in agriculture, and high-throughput phenotyping (HTP)**.   
 
 
 ---
